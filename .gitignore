@@ -1,0 +1,9 @@
+# CMake
+build/**
+
+# Executable
+*.exe
+*.dll
+*.lib
+*.so
+*.a
